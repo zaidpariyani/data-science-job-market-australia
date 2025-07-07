@@ -1,31 +1,47 @@
-# 📊 Australian Data Science Job Market Insights (2025)
+📊 Australian Data Science Job Market Insights (2025)
 
-This project analyzes current data science job trends across Australia using real-world job listings data.  
-It explores in-demand skills, average salary distributions, and city-wise job demand — built using **Power BI**.
+As part of building my analytics portfolio, I explored the current data science job landscape in Australia using real-world job listing data.  
+The goal was to uncover key trends in in-demand skills, salary ranges, and location-based demand — and present it all through a clear and interactive Power BI dashboard.
 
-## 🚀 Tools Used
-- Power BI for data cleaning, modeling & visualization
-- Excel (initial review)
-- GitHub for version control
 
-## 📁 Dataset
-- Sourced from open data repositories and job scraping platforms
-- Fields include job title, company, location, estimated salaries, and 20+ technical skill flags
+🚀 Tools & Technologies
+- Power BI – for data cleaning (Power Query), modeling, and visualization
+- Excel – initial review and exploration of raw data
+- GitHub – version control and public portfolio hosting
 
-## 📈 Key Visuals
-- ✅ **Top 15 In-Demand Skills** (Python, SQL, Power BI, etc.)
-- 📍 **Job Demand by City** (Sydney, Melbourne, Brisbane…)
-- 💰 **Average Base Salary Trends**
-- 📊 **Skill-wise Salary Distribution**
 
-## 📂 File Structure
-- `AustraliaDataScienceJobs.csv` – Cleaned job dataset
-- `screenshots/` – All dashboard visuals
+ 📁 Dataset
+The dataset was sourced from publicly available job platforms and repositories.  
+It includes:
+- Job titles, company names, and locations
+- Estimated salary ranges (base, high, low, average)
+- 20+ technical skill flags (e.g., Python, SQL, Tableau, AWS, etc.)
 
-## ✅ Project Outcome
-> This project is designed to showcase strong **data storytelling**, **Power BI skills**, and **insight extraction** for job readiness in Australia’s data industry.
 
-## 🔗 Connect with me
+📈 Key Dashboards & Visuals
+- ✅ Top 15 In-Demand Skills across data jobs
+- 📍 Job Demand by City(Sydney, Melbourne, Brisbane, etc.)
+- 💰 Average Base Salary Trends
+- 📊Skill-wise Salary Distribution
+
+
+🧠 Key Learnings
+- Learned how to unpivot wide skill columns to make them visualizable in Power BI
+- Improved my skills in data transformation, DAX, and building multi-page dashboards
+- Gained real insights into what employers are currently looking for in data professionals
+
+
+ ✅ Outcome
+This project helped me strengthen both my technical reporting and data storytelling skills, while giving me a clearer picture of the Australian data science job market.
+
+
+ 📂 File Structure
+- `AustraliaDataScienceJobs.csv` – Cleaned and transformed dataset
+- `screenshots/` – Dashboard images
+- `README.md` – Project overview and key insights
+
+
+🔗 Connect with Me
 👨‍💻 Zaid Pariyani  
-📍 Master of IT (Business Analytics), Australia  
+📍 Master of IT (Business Analytics), Australia   
 🌐 [LinkedIn](www.linkedin.com/in/mohammed-zaid-pariyani-1797b4363)  
